@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell:ital@1&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar{
+    background-color: red;
+    width: 10vw;
+    font-family: 'Cantarell', sans-serif;
+    height: 100vh;
+}
+
+.sidebar nav{
+    padding: 45px;
+}
+
+.sidebar nav li{
+    list-style: noon;
+    font-size: 30px;
+    padding: 33px 0;
+}
+.main{
+    background-color:yellow;
+    width:90vw;
+}
+
+.container{
+    display: flex;   
+}
+
+.infocontainer{
+    background-color: rgb(202, 9, 128);
+    height: 45vh;
+    width: 80vw;
+    margin: 144px auto;
+}

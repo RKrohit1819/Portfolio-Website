@@ -1,0 +1,16 @@
+/* CSS code */
+.photo-button {
+    width: 120px;
+    height: 40px;
+    /* Add any other desired styles */
+  }
+  
+  .camera-stream {
+    width: 100%;
+    /* Add any other desired styles */
+  }
+  
+  .photo-canvas {
+    display: none;
+    /* Add any other desired styles */
+  }
